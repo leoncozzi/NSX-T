@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # This Script is for demo purposes only. If to be adapted for production the users should test and validate operations.
+# Tested on NSX-T 2.4.2 with the advanced API
 # Author leoncozzi@gmail.com
 
 import json
